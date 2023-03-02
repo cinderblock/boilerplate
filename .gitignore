@@ -1,0 +1,7 @@
+
+# Built files
+/.dist/
+/build/
+
+# Dependency directories
+/node_modules/
