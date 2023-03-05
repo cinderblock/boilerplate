@@ -12,11 +12,11 @@ dictionaries:
   - words
   - dependencies
 dictionaryDefinitions:
-  - name: names
-    path: ./cSpell/names.txt
-  - name: export
-    path: ./cSpell/export.txt
-  - name: words
-    path: ./cSpell/words.txt
   - name: dependencies
-    path: ./cSpell/dependencies.txt
+    path: ./CSpell/dependencies.txt
+  - name: export
+    path: ./CSpell/export.txt
+  - name: names
+    path: ./CSpell/names.txt
+  - name: words
+    path: ./CSpell/words.txt
